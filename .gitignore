@@ -1,3 +1,7 @@
+/mit-bih-arrhythmia-database-1.0.0
+/.AryrhytmiaEnv
+/bayesian_tuning
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
