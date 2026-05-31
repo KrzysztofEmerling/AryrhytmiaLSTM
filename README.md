@@ -6,7 +6,7 @@ Wykorzystanie modeli opartych o warstwy LSTM do klasyfikacji arytmi na podstawie
 
 ### Wymagania
 
-- Python 3.11
+- Python 3.13
 - venv
 
 ### Tworzenie środowiska
